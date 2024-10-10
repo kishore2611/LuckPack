@@ -1,5 +1,5 @@
 const Content = require("../models/contentModel");
-const main = require("../index");
+const main = require("../app.js");
 const Notification = require("../models/notificationModel");
 const User = require("../models/userModel");
 
